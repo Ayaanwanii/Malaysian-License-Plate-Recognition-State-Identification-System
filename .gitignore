@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+train/
+output/
+evaluation_graphs/
+.venv/
